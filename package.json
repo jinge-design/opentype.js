@@ -21,8 +21,7 @@
     "type": "git",
     "url": "git://github.com/opentypejs/opentype.js.git"
   },
-  "main": "dist/opentype.js",
-  "module": "dist/opentype.module.js",
+  "main": "src/opentype.js",
   "bin": {
     "ot": "./bin/ot"
   },

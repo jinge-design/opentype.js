@@ -6,3 +6,5 @@
 npm-debug.log
 /.reify-cache
 /experiments
+/dist
+*.rdb
